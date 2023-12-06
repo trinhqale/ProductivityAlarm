@@ -1,6 +1,9 @@
 # WinForm_ProductivityAlarm
+
 A timer that helps me work more efficiently 
+
 Using Winform and C# to create an app that helped me work more productively. 
+
 Built with Visual Studio 2022
 
 # How To Use
